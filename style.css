@@ -69,7 +69,8 @@ body {
     }
     .calculator
     {
-        width: 300px;
+        width: 350px;
+        
     }
 
     .buttons {
@@ -82,3 +83,4 @@ body {
         font-size: 1.3rem; /* Smaller button text on small screens */
     }
 }
+
